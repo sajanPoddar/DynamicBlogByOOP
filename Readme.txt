@@ -1,5 +1,5 @@
------------------- For More Help -----------------
-Tutorial site: http://www.trainingwithliveproject.com
-Like us Facebook : https://web.facebook.com/ProDelowar
-Join us Facebook : https://web.facebook.com/groups/PBPTBD
-Join our Forum: http://www.idbscholarsforum.com
+## Admin can easily update, delete, edit post, category, title, slogan and slider.
+###	Admin can easily create and delete editor, author.                                
+###	A Post must have a category.
+###	Editor, author can change the password.
+### If any user has questions they can easily contact us using contact-form
